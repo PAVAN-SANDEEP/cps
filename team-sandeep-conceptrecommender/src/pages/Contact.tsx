@@ -1,4 +1,4 @@
-// Created by : @Pentapati V V Satya Pavan Sandeep make changes
+// Created by : @Pentapati V V Satya Pavan Sandeep
 import React, { useState } from 'react';
 import { Brain, Mail, Phone, MapPin, Send, MessageSquare, Clock, ArrowLeft } from 'lucide-react';
 
